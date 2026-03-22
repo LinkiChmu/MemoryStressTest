@@ -1,0 +1,14 @@
+# Виртуальные окружения
+venv/
+ENV/
+env/
+.venv/
+.env/
+virtualenv/
+.pyenv/
+
+# IDE и редакторы кода
+.idea/
+*.iml
+*.ipr
+*.iws
